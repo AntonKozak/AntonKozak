@@ -25,6 +25,7 @@
 ⚡Web developer (C# && Angular && React & TypeScript && SQL && Azure && AWS)
 🌟 WEB Developer | React & TypeScript Enthusiast | Lifelong Learner 🌟
 <br/>
+<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=sqlite,react,bootstrap,html,mongodb,css,vscode,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,c#,nextjs,mysql" /><br>
