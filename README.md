@@ -11,7 +11,12 @@
 - 😄 Pronouns: HELLO, я ANТоn, а як hetter du ?
 - ⚡ Fun fact: I Like to code :)
 <hr/>      
- <br/>      
+ <br/>  
+ 
+ ![Snake animation](https://github.com/AntonKozak/AntonKozak/blob/output/github-contribution-grid-snake.svg)
+
+<hr/>      
+ <br/> 
 <h2 align="center">Hi 😄 My name is Anton Kozak</h1>
 <br/>
 🌍  I'm based in Halmstad Sweden
