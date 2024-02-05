@@ -9,12 +9,8 @@
 - 💬 Ask me about space in gallaxy
 - 📫 How to reach me: It is below
 - 😄 Pronouns: HELLO, я ANТоn, а як hetter du ?
-- ⚡ Fun fact: I Like to code :)
-<hr/>      
+- ⚡ Fun fact: I Like to code :)     
  <br/>  
- 
- ![snake gif](https://github.com/AntonKozak/AntonKozak/blob/output/github-contribution-grid-snake.gif)
-
 <hr/>      
  <br/> 
 <h2 align="center">Hi 😄 My name is Anton Kozak</h1>
