@@ -13,7 +13,7 @@
 <hr/>      
  <br/>  
  
- ![Snake gif](https://github.com/AntonKozak/AntonKozak/blob/output/github-contribution-grid-snake.gif)
+ ![snake gif](https://github.com/AntonKozak/AntonKozak/blob/output/github-contribution-grid-snake.gif)
 
 <hr/>      
  <br/> 
