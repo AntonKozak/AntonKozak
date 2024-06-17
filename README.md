@@ -22,8 +22,8 @@
 <br/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<h4>Ukrainia, English, Swedish</h4>
-⚡Web developer (C# && Angular && React & TypeScript && SQL && Azure && AWS)
+<h4>English, Swedish, Ukrainian, Russian</h4>
+⚡Web developer (C# && Angular && React & TypeScript && SQL && Azure )
 🌟 WEB Developer | React & TypeScript Enthusiast | Lifelong Learner 🌟
 <br/>
 <br/>
