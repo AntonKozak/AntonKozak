@@ -1,59 +1,51 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There!+👋;+I'm+Anton+Kozak!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=80&duration=2500&lines=Hi+there!+👋+I'm+Anton+Kozak" alt="Anton Kozak" />
 </h1>
 
-- 🔭 I’m currently working on learning more
-- 🌱 I’m currently learning C#, Angular, React
-- 👯 I’m looking to collaborate on for the opportunity to work with you
-- 🤔 I’m looking for help with be better then yesterday
-- 💬 Ask me about space in gallaxy
-- 📫 How to reach me: It is below
-- 😄 Pronouns: HELLO, я ANТоn, а як hetter du ?
-- ⚡ Fun fact: I Like to code :)     
- <br/>  
-<hr/>      
- <br/> 
-<h2 align="center">Hi 😄 My name is Anton Kozak</h1>
-<br/>
-🌍  I'm based in Halmstad Sweden
-✉️  You can contact me at antonkozak3533@gmail.com 📫
-🚀  I'm currently searching for work 🔭
-🧠  I'm learning Back-end ( C# ) 🌱
-<br/>
+Welcome — I'm Anton, a motivated web developer based in Halmstad, Sweden. I focus on back-end C# and full‑stack JavaScript/TypeScript. I'm learning continuously and looking for opportunities to contribute and grow.
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<h4>English, Swedish, Ukrainian, Russian</h4>
-⚡Web developer (C# && Angular && React & TypeScript && SQL && Azure )
-🌟 WEB Developer | React & TypeScript Enthusiast | Lifelong Learner 🌟
-<br/>
-<br/>
+---
+
+## About me
+
+- Location: Halmstad, Sweden
+- Email: antonkozak3533@gmail.com
+- Languages: English, Swedish, Ukrainian, Russian
+- Looking for: junior/mid-level roles and collaboration opportunities
+
+## Current focus
+
+- Learning: C#, .NET, Azure
+- Working with: Angular, React, TypeScript, SQL
+
+## Skills & Tools
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=sqlite,react,bootstrap,html,mongodb,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,c#,nextjs,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=csharp,net,angular,react,typescript,sql,azure,vscode,git" alt="skills" />
 </div>
 
-<br/>
-<div align="center"> 
-  <a href="mailto:antonkozak3533@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/anton-kozak-004584a2/" target="https://www.linkedin.com/in/anton-kozak-004584a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://AntonKozak.github.io/Cv/"">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" 
-          /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+Key areas: Back-end development (C#/.NET), REST APIs, TypeScript front-ends, SQL databases, basic cloud (Azure).
+
+## Links
+
+- Portfolio / CV: https://AntonKozak.github.io/Cv/
+- LinkedIn: https://www.linkedin.com/in/anton-kozak-004584a2/
+- Email: antonkozak3533@gmail.com
+
+<div align="center">
+  <a href="mailto:antonkozak3533@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/anton-kozak-004584a2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
- <hr/>
- <hr/>
-<br/>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AntonKozak's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AntonKozak&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AntonKozak's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AntonKozak&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+---
 
+## GitHub stats
 
-<br/><br/>
- 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<div align="center">
+  <a href="https://github.com/AntonKozak"><img alt="AntonKozak's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AntonKozak&show_icons=true&theme=react" height="160"/></a>
+  <a href="https://github.com/AntonKozak"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AntonKozak&layout=compact&theme=react" height="160"/></a>
+</div>
 
+---
+
+If you'd like, I can convert this `github.txt` into a `README.md` in the repo root, or add a short projects section listing 2–3 highlights from this repository. Which would you prefer?
